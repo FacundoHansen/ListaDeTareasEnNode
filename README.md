@@ -7,3 +7,8 @@ verlas en una lista, marcarlas como completadas o desmarcarla ,y borrarlas. Esta
 en un archivo .json 
 
 
+Para instalar el proyecto:
+```
+npm install
+```
+
